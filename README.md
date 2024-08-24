@@ -1,6 +1,6 @@
 # Data Preprocessing in Python
 
-End-to-End Data Preprocessing in Machine Learning in Python. The following data cleaning operations on Loans data needed before ingesting the data into a machine learning model :
+End-to-End Data Preprocessing in Data Science in Python. The following data cleaning operations on Loans data needed before ingesting the data into a Data Science Project :
 
 1) Importing libraries
 2) Importing datasets
